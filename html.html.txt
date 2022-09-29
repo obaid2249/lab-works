@@ -1,0 +1,17 @@
+<html>
+<head>
+	<body>html photos </html>
+		</head>
+
+<body>
+<a href="https://www.facebook.com/" target="blank"><img src="/home/Desktop/b192249/fb.jpeg" width="150px" height="150px"></a><br><br>
+<a href="https://www.instagram.com/" target="blank"><img src="/home/Desktop/b192249/in.jpeg" width="150px" height="150px"></a><br><br>
+<a href="https://www.google.com/" target="blank"><img src="/home/Desktop/b192249/gog.jpeg" width="150px" height="150px"></a><br><br>
+<a href="https://www.linkedin.com/" target="blank"><img src="/home/Desktop/b192249/lin.jpeg" width="150px" height="150px"></a><br><br>
+<a href="https://www.twitter.com/" target="blank"><img src="/home/Desktop/b192249/tw.jpeg" width="150px" height="150px"></a><br><br>
+<a href="https://www.pinterest.com/" target="blank"><img src="/home/Desktop/b192249/pin.jpeg" width="150px" height="150px"></a><br><br>
+<a href="https://www.snapchat.com/" target="blank"><img src="/home/Desktop/b192249/sn.jpeg" width="150px" height="150px"></a><br><br>
+<a href="https://www.youtube.com/" target="blank"><img src="/home/Desktop/b192249/you.jpeg" width="150px" height="150px"></a><br><br>
+<a href="https://www.whatsapp.com/" target="blank"><img src="/home/Desktop/b192249/wh.jpeg" width="150px" height="150px"></a><br><br>
+</body>
+</html>
